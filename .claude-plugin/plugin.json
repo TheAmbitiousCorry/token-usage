@@ -1,0 +1,6 @@
+{
+  "name": "token-usage",
+  "version": "0.1.0",
+  "description": "Lets Claude agents read the session's token usage: context fill, cost and rate limits.",
+  "author": { "name": "TheAmbitiousCorry" }
+}

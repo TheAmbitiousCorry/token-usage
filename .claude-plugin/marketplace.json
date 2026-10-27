@@ -1,0 +1,5 @@
+{
+  "name": "ambitious-mods",
+  "owner": { "name": "TheAmbitiousCorry" },
+  "plugins": [{ "name": "token-usage", "source": "./" }]
+}
